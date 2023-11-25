@@ -3,7 +3,7 @@ import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'app-layoutPage',
   templateUrl: './layoutPage.component.html',
-  styleUrls: ['./layoutPage.component.css']
+  styleUrls: []
 })
 export class LayoutPageComponent implements OnInit {
 
